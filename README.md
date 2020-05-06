@@ -6,6 +6,8 @@
 
 **Assignments 6.5 - 10.2** : Course 2 - Python Data Structures
 
+Course 3 - Using Python to Access Web Data 
+
 ## Other files
 **Sorting algorithms- These algorithms are not needed on python due to the sort() inbuilt function, however, these algorithms exist in most other languages to sort arrays.**
 
