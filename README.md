@@ -8,8 +8,6 @@
 
 **Course 3** : Using Python to Access Web Data 
 
-**Course 4** : Using Databases with Python
-
 ## Other files
 **Sorting algorithms- These algorithms are not needed on python due to the sort() inbuilt function, however, these algorithms exist in most other languages to sort arrays.**
 
